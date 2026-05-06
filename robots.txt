@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neomam.github.io/notes-7wc40g/sitemap.xml
